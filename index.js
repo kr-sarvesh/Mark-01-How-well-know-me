@@ -36,7 +36,10 @@ var questions = [
      question:"My favourite book related to investment ",
      answer:"Intelligent Investor"
   },
-    
+     {
+    question:"My favourite cricketer would be\n",
+    answer:"Ms Dhoni"
+    },
 
 ]
 
